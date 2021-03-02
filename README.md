@@ -1,4 +1,4 @@
-# Practice Pandas notebook (Ungraded
+# Practice Pandas notebook (Ungraded)
 
 This is an ungraded notebook to help students learn Pandas.
 
